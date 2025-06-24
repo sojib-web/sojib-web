@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/1tgFLL8/Md-Sojib-Ali.png" alt="Md Sojib Ali - Full-Stack Developer" width="100%" />
+  <img src="https://i.ibb.co/6cykt1t3/Md-Sojib-Ali.png" alt="Md Sojib Ali - Full-Stack Developer" width="100%" />
 </p>
 
 
