@@ -13,7 +13,7 @@
 Passionate developer building modern web applications using React and related technologies.  
 
 - 🌱 Currently exploring **Next.js** and **GraphQL**  
-- 💼 Working on a **Tourism Website** project  
+- 💼 Working on a **gardening-community** project  
 - 🚀 Learning advanced **JWT Authentication** techniques
 
 ---
