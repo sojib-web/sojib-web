@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/I7VYO4K.png" alt="Md Sojib Ali - Full-Stack Developer" width="100%" />
+  <img src="আপনার-আপলোড-করা-ইমেজ-URL" alt="Md Sojib Ali - Full-Stack Developer" width="100%" />
 </p>
 
 
