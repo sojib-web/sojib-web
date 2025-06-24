@@ -24,6 +24,21 @@ I'm a passionate Full-Stack Developer, focused on building modern, scalable, and
   <img src="https://skillicons.dev/icons?i=react,firebase,mongodb,javascript,tailwindcss,daisyui,nodejs,express,git,github,vscode" alt="Skills" />
 </p>
 
+### 🔗 Learn More:
+
+- 🌐 [React](https://reactjs.org/)
+- 🔥 [Firebase](https://firebase.google.com/)
+- 🍃 [MongoDB](https://www.mongodb.com/)
+- 💛 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- 🌼 [DaisyUI](https://daisyui.com/)
+- 🟢 [Node.js](https://nodejs.org/)
+- ⚙️ [Express.js](https://expressjs.com/)
+- 🧠 [Git](https://git-scm.com/)
+- 🐙 [GitHub](https://github.com/)
+- 🖥️ [VS Code](https://code.visualstudio.com/)
+
+
 ---
 
 ## 🌐 Connect with Me
