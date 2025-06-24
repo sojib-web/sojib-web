@@ -24,14 +24,9 @@ Passionate developer building modern web applications using React and related te
   <img src="https://skillicons.dev/icons?i=react,firebase,mongodb,jwt,tailwindcss,daisyui,nodejs,express,git,github,vscode" alt="Skills" />
 </p>
 
----
+Learn more about these technologies:  
+[React](https://reactjs.org/) • [Firebase](https://firebase.google.com/) • [MongoDB](https://www.mongodb.com/) • [JWT](https://jwt.io/) • [Tailwind CSS](https://tailwindcss.com/) • [DaisyUI](https://daisyui.com/) • [Node.js](https://nodejs.org/) • [Express](https://expressjs.com/)
 
-## 🌐 Connect with me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=githubpages&logoColor=white)](https://gardening-community-client.web.app/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sojib.ahmed.71271466)  
-
----
 
 ## 📈 GitHub Stats
 
