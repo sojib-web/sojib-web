@@ -2,42 +2,47 @@
   <img src="https://i.ibb.co/6cykt1t3/Md-Sojib-Ali.png" alt="Md Sojib Ali - Full-Stack Developer" width="100%" />
 </p>
 
-
-
-# Md Sojib  
-### Full-Stack Developer | React, Firebase, MongoDB, JWT, TailwindCSS & DaisyUI Enthusiast
+# 👋 Hi, I'm Md Sojib Ali  
+### 🚀 Full-Stack Developer | React, Firebase, MongoDB, JWT, TailwindCSS & DaisyUI Enthusiast
 
 ---
 
-## 👋 About Me
+## 🧠 About Me
 
-Passionate developer building modern web applications using React and related technologies.  
+I'm a passionate Full-Stack Developer, focused on building modern, scalable, and responsive web applications using the latest technologies.
 
 - 🌱 Currently exploring **Next.js** and **GraphQL**  
-- 💼 Working on a **gardening-community** project  
-- 🚀 Learning advanced **JWT Authentication** techniques
+- 💼 Working on a **Gardening Community** platform  
+- 🔐 Learning advanced **JWT Authentication** techniques  
+- 🛠️ Constantly improving my **MERN Stack** skills  
 
 ---
 
-## 🛠 Skills
+## 🛠 My Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,firebase,mongodb,jwt,tailwindcss,daisyui,nodejs,express,git,github,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,firebase,mongodb,javascript,tailwindcss,daisyui,nodejs,express,git,github,vscode" alt="Skills" />
 </p>
 
-Learn more about these technologies:  
-[React](https://reactjs.org/) • [Firebase](https://firebase.google.com/) • [MongoDB](https://www.mongodb.com/) • [JWT](https://jwt.io/) • [Tailwind CSS](https://tailwindcss.com/) • [DaisyUI](https://daisyui.com/) • [Node.js](https://nodejs.org/) • [Express](https://expressjs.com/)
+---
 
+## 🌐 Connect with Me
 
-## 📈 GitHub Stats
+- 🔗 **Portfolio:** [gardening-community-client.web.app](https://gardening-community-client.web.app/)  
+- 👤 **Facebook:** [Md Sojib Ali](https://www.facebook.com/sojib.ahmed.71271466)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sojib-web&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-web&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sojib-web&theme=radical" alt="GitHub Streak" />
 </p>
-  
