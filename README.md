@@ -25,18 +25,8 @@ I'm a passionate Full-Stack Developer, focused on building modern, scalable, and
 </p>
 
 ### 🔗 Learn More:
+[React](https://reactjs.org/) • [Firebase](https://firebase.google.com/) • [MongoDB](https://www.mongodb.com/) • [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) • [Tailwind CSS](https://tailwindcss.com/) • [DaisyUI](https://daisyui.com/) • [Node.js](https://nodejs.org/) • [Express.js](https://expressjs.com/) • [Git](https://git-scm.com/) • [GitHub](https://github.com/) • [VS Code](https://code.visualstudio.com/)
 
-- 🌐 [React](https://reactjs.org/)
-- 🔥 [Firebase](https://firebase.google.com/)
-- 🍃 [MongoDB](https://www.mongodb.com/)
-- 💛 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- 🎨 [Tailwind CSS](https://tailwindcss.com/)
-- 🌼 [DaisyUI](https://daisyui.com/)
-- 🟢 [Node.js](https://nodejs.org/)
-- ⚙️ [Express.js](https://expressjs.com/)
-- 🧠 [Git](https://git-scm.com/)
-- 🐙 [GitHub](https://github.com/)
-- 🖥️ [VS Code](https://code.visualstudio.com/)
 
 
 ---
