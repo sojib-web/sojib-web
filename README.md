@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="আপনার-আপলোড-করা-ইমেজ-URL" alt="Md Sojib Ali - Full-Stack Developer" width="100%" />
+  <img src="https://i.ibb.co/1tgFLL8/Md-Sojib-Ali.png" alt="Md Sojib Ali - Full-Stack Developer" width="100%" />
 </p>
+
 
 
 # Md Sojib  
