@@ -1,7 +1,7 @@
-<!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/I7VYO4K.png" alt="Md Sojib Ali - Full-Stack Developer" width="100%" />
 </p>
+
 
 # Md Sojib  
 ### Full-Stack Developer | React, Firebase, MongoDB, JWT, TailwindCSS & DaisyUI Enthusiast
