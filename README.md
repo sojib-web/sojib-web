@@ -30,14 +30,14 @@ I'm a passionate Full-Stack Developer, focused on building modern, scalable, and
 [React](https://reactjs.org/) • [Firebase](https://firebase.google.com/) • [MongoDB](https://www.mongodb.com/) • [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) • [Tailwind CSS](https://tailwindcss.com/) • [DaisyUI](https://daisyui.com/) • [Node.js](https://nodejs.org/) • [Express.js](https://expressjs.com/) • [Git](https://git-scm.com/) • [GitHub](https://github.com/) • [VS Code](https://code.visualstudio.com/)  
 
 ---
-
 ## 📌 Featured Projects  
 
-| Project | Description | Live Demo | GitHub Repo |
-|---------|-------------|-----------|-------------|
-| Gardening Community | A platform for garden lovers to share and discuss gardening tips. | [Live]([https://gardening-community-client.web.app](https://gardening-community-client.web.app/)) | [Repo](https://github.com/sojib-web/gardening-community) |
-| Matrimony Platform | Full-featured MERN-based matchmaking site with payment system. | [Live]([https://example.com](https://loveknot-f6d02.web.app/)) | [Repo]([https://github.com/sojib-web/matrimony-platform](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-sojib-web)) |
-| Service Review System | MERN app for service management and user reviews. | [Live](https://service-review-system-a221e.web.app/) | [Repo](https://github.com/sojib-web/reaheck-assignment-11) |
+| Project             | Description                                           | Live Demo                                                         | GitHub Repo                                                               |
+|---------------------|-------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Gardening Community  | A platform for garden lovers to share and discuss gardening tips. | [Live](https://gardening-community-client.web.app/)              | [Repo](https://github.com/sojib-web/gardening-community)                  |
+| Matrimony Platform   | Full-featured MERN-based matchmaking site with payment system.   | [Live](https://loveknot-f6d02.web.app/)                           | [Repo](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-sojib-web) |
+| Service Review System| MERN app for service management and user reviews.     | [Live](https://service-review-system-a221e.web.app/)              | [Repo](https://github.com/sojib-web/reaheck-assignment-11)                |
+
 
 ---
 
