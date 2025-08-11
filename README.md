@@ -35,16 +35,18 @@ I'm a passionate Full-Stack Developer, focused on building modern, scalable, and
 
 | Project | Description | Live Demo | GitHub Repo |
 |---------|-------------|-----------|-------------|
-| Gardening Community | A platform for garden lovers to share and discuss gardening tips. | [Live](https://gardening-community-client.web.app) | [Repo](https://github.com/sojib-web/gardening-community-client) |
-| Matrimony Platform | Full-featured MERN-based matchmaking site with payment system. | [Live](https://example.com) | [Repo](https://github.com/sojib-web/matrimony-platform) |
-| Service Review System | MERN app for service management and user reviews. | [Live](https://example.com) | [Repo](https://github.com/sojib-web/service-review-system) |
+| Gardening Community | A platform for garden lovers to share and discuss gardening tips. | [Live]([https://gardening-community-client.web.app](https://gardening-community-client.web.app/)) | [Repo](https://github.com/sojib-web/gardening-community) |
+| Matrimony Platform | Full-featured MERN-based matchmaking site with payment system. | [Live]([https://example.com](https://loveknot-f6d02.web.app/)) | [Repo]([https://github.com/sojib-web/matrimony-platform](https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-sojib-web)) |
+| Service Review System | MERN app for service management and user reviews. | [Live](https://service-review-system-a221e.web.app/) | [Repo](https://github.com/sojib-web/reaheck-assignment-11) |
 
 ---
 
 ## 🌐 Connect with Me  
 
-- 🔗 **Portfolio:** [gardening-community-client.web.app](https://gardening-community-client.web.app/)  
-- 👤 **Facebook:** [Md Sojib Ali](https://www.facebook.com/sojib.ahmed.71271466)  
+- 🔗- 🔗 **Portfolio:** [portfolio-sojib.netlify.app](https://portfolio-sojib.netlify.app/)
+- 👤 **Facebook:** [Md Sojib Ali](https://www.facebook.com/sojib.ahmed.71271466)
+- - 💼 **LinkedIn:** [Md Sojib’s LinkedIn](https://www.linkedin.com/in/md-sojibs/)
+
 
 ---
 
