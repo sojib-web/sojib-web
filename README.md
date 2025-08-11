@@ -41,38 +41,38 @@ I'm a passionate Full-Stack Developer, focused on building modern, scalable, and
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 
-- 🔗- 🔗 **Portfolio:** [portfolio-sojib.netlify.app](https://portfolio-sojib.netlify.app/)
-- 👤 **Facebook:** [Md Sojib Ali](https://www.facebook.com/sojib.ahmed.71271466)
-- - 💼 **LinkedIn:** [Md Sojib’s LinkedIn](https://www.linkedin.com/in/md-sojibs/)
+<div align="center">
 
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-portfolio--sojib.netlify.app-blue?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-sojib.netlify.app/)  
+[![👤 Facebook](https://img.shields.io/badge/Facebook-Md_Sojib_Ali-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sojib.ahmed.71271466)  
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Sojib%E2%80%99s_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sojibs/)
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojib-web&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-web&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sojib-web&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sojib-web&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sojib-web&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" style="margin-right:4%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-web&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+
+</div>
 
 ---
+
+## 🔥 GitHub Streak & Contribution Graph
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sojib-web&theme=radical" alt="GitHub Streak" width="48%" style="margin-right:4%" />  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sojib-web&theme=react-dark" alt="GitHub Activity Graph" width="40%" />
+
+</div>
+
 
 ## 🏆 GitHub Trophies  
 
