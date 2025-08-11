@@ -53,21 +53,18 @@ I'm a passionate Full-Stack Developer, focused on building modern, scalable, and
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojib-web&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-web&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sojib-web&show_icons=true&theme=radical" alt="GitHub Stats" width="30%" style="margin-right: 3%;" />  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sojib-web&theme=radical" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojib-web&layout=compact&theme=radical" alt="Top Languages" width="30%" style="margin-right: 3%;" />
 
----
+<img src="https://streak-stats.demolab.com/?user=sojib-web&theme=radical" alt="GitHub Streak" width="30%" />
+
+</div>
+
 
 ## 📈 Contribution Graph  
 
